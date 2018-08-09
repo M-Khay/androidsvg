@@ -1,0 +1,4 @@
+com.caverock.androidsvg
+int attr svg 0x7f040001
+int[] styleable SVGImageView { 0x7f040001 }
+int styleable SVGImageView_svg 0
